@@ -37,7 +37,7 @@
     <img align="left" alt="Satyam Goyal | Instagram" width="24px" src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/Instagram.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="mailto:mejiamaestrejuandiego@gmail.com">
+  <a href="mailto:jdaremas676@misena.edu.co">
     <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/Gmail.svg" />
   </a>
   
